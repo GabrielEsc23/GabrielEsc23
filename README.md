@@ -1,7 +1,25 @@
-<div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hola+soy+Gabriel+Escobar+%F0%9F%91%8B;" alt="Headline" />
-    </div>
+</p>
 
+```
+				
+ ██████╗  █████╗ ██████╗ ██████╗ ██╗███████╗██╗     
+██╔════╝ ██╔══██╗██╔══██╗██╔══██╗██║██╔════╝██║     
+██║  ███╗███████║██████╔╝██████╔╝██║█████╗  ██║     
+██║   ██║██╔══██║██╔══██╗██╔══██╗██║██╔══╝  ██║     
+╚██████╔╝██║  ██║██████╔╝██████╔╝██║███████╗███████╗
+ ╚═════╝ ╚═╝  ╚═╝╚═════╝ ╚═════╝ ╚═╝╚══════╝╚══════╝
+
+███████╗███████╗ ██████╗ ██████╗ ██████╗  █████╗ ██████╗ 
+██╔════╝██╔════╝██╔════╝██╔═══██╗██╔══██╗██╔══██╗██╔══██╗
+███████╗█████╗  ██║     ██║   ██║██████╔╝███████║██████╔╝
+╚════██║██╔══╝  ██║     ██║   ██║██╔══██╗██╔══██║██╔══██╗
+███████║███████╗╚██████╗╚██████╔╝██║  ██║██║  ██║██████╔╝
+╚══════╝╚══════╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝
+
+```
+
+
+<p>
 ### 💻 Tecnólogo Superior en Desarrollo de Software
 
 Soy **Tecnólogo Superior en Desarrollo de Software** de la **Escuela Politécnica Nacional (EPN)**, con formación en desarrollo de aplicaciones web, desarrollo móvil, Internet de las Cosas (IoT) y fundamentos de Inteligencia Artificial.
