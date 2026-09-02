@@ -4,12 +4,7 @@
 
 </div>
 
-<div align="center">
 
-![Static](https://img.shields.io/badge/EPN-Escuela%20Polit%C3%A9cnica%20Nacional-2563EB?style=for-the-badge&labelColor=0D1117)
-![Static](https://img.shields.io/badge/Quito-Ecuador-2563EB?style=for-the-badge&labelColor=0D1117&logo=googlemaps&logoColor=white)
-
-</div>
 
 ---
 
