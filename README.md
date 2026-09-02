@@ -1,310 +1,276 @@
-👋 Hola, soy Gabriel Escobar
+# 👋 Hola, soy Gabriel Escobar
 
-💻 Tecnólogo Superior en Desarrollo de Software | Backend Developer | Web & Mobile
+### 💻 Tecnólogo Superior en Desarrollo de Software
 
-Soy Tecnólogo Superior en Desarrollo de Software de la Escuela Politécnica Nacional (EPN), con formación y experiencia académica en desarrollo web, desarrollo móvil, bases de datos, infraestructura, ciberseguridad, Internet de las Cosas (IoT) y fundamentos de Inteligencia Artificial.
+Soy **Tecnólogo Superior en Desarrollo de Software** de la **Escuela Politécnica Nacional (EPN)**, con formación en desarrollo de aplicaciones web, desarrollo móvil, Internet de las Cosas (IoT) y fundamentos de Inteligencia Artificial.
 
-Me interesa construir soluciones de software completas, desde el desarrollo del frontend y backend hasta la implementación, despliegue, seguridad y pruebas.
+Tengo experiencia académica en el desarrollo de soluciones de software utilizando tecnologías como **JavaScript, Java, Python, C++, React, Node.js, Express.js, MongoDB y SQL**.
 
-📍 Quito, Ecuador
-📧 gabrielescobar283@gmail.com
-🔗 GitHub
+También cuento con experiencia en **Docker, Linux, Nginx, Git**, desarrollo de APIs REST y análisis de seguridad de aplicaciones web mediante **OWASP Top 10 y Burp Suite**.
 
-🚀 Sobre mí
+Actualmente busco seguir creciendo profesionalmente, aprender nuevas tecnologías y aportar mis conocimientos en proyectos de desarrollo de software.
 
-🎓 Tecnólogo Superior en Desarrollo de Software — Escuela Politécnica Nacional
+---
 
-💻 Desarrollo de aplicaciones Web y Mobile
+## 🧑‍💻 Sobre mí
 
-⚙️ Desarrollo de APIs REST y Backend
+- 🎓 **Tecnólogo Superior en Desarrollo de Software**
+- 🏫 **Escuela Politécnica Nacional — EPN**
+- 💻 Desarrollo de aplicaciones Web
+- 📱 Desarrollo de aplicaciones Mobile
+- ⚙️ Desarrollo Backend y APIs REST
+- 🗄️ Bases de datos SQL y NoSQL
+- 🔐 Ciberseguridad y auditoría de aplicaciones web
+- 🐳 Docker y Docker Compose
+- 🐧 Linux
+- 🌐 Nginx
+- 🔧 Git y GitHub
+- 🤖 Fundamentos de Inteligencia Artificial
+- 📡 Internet de las Cosas (IoT)
+- 🇪🇨 Quito, Ecuador
 
-🗄️ Bases de datos MongoDB y SQL
+---
 
-🔐 Autenticación, autorización y seguridad de aplicaciones
+# 🛠️ Tecnologías
 
-🛡️ Análisis de seguridad basado en OWASP Top 10
+## 💻 Lenguajes de programación
 
-🐳 Contenedores y despliegue con Docker
+<p align="left">
 
-🌐 Administración y configuración con Linux y Nginx
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
 
-☁️ Experiencia con servicios de despliegue y almacenamiento en la nube
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
 
-🤖 Integración de chatbots e Inteligencia Artificial
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
 
-📡 Interés en IoT
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
 
-🔧 Control de versiones con Git y GitHub
+</p>
 
-🛠️ Tecnologías
+- JavaScript
+- Java
+- Python
+- C++
 
-💻 Lenguajes de programación
+---
 
+# 🌐 Desarrollo Web
 
+## 🎨 Frontend
 
+<p align="left">
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React"/>
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
 
+</p>
 
-🌐 Desarrollo Web
+- React
+- HTML5
+- CSS3
 
-Frontend
+## ⚙️ Backend
 
+<p align="left">
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" height="45" alt="Express.js"/>
 
+</p>
 
+- Node.js
+- Express.js
+- REST APIs
 
+---
 
-Backend
+# 🗄️ Bases de datos
 
+<p align="left">
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB"/>
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
 
+</p>
 
-📱 Desarrollo Mobile
+- MongoDB
+- SQL
 
+---
 
+# 🔐 Ciberseguridad
 
+Tengo conocimientos en **seguridad de aplicaciones web**, incluyendo análisis de vulnerabilidades y revisión de configuraciones de seguridad.
 
+### 🛡️ Tecnologías y herramientas
 
+- OWASP Top 10
+- Burp Suite
+- Análisis de seguridad de aplicaciones web
+- Análisis de cabeceras HTTP
+- Autenticación y autorización
+- JSON Web Tokens (JWT)
+- Control de acceso basado en roles
+- Revisión de configuraciones de seguridad
 
-🗄️ Bases de datos
+---
 
+# 🛡️ Auditoría de seguridad — Proyecto de tesis
 
+Como parte de mi proyecto de tesis realicé una **auditoría de seguridad de la aplicación web utilizando OWASP Top 10 y Burp Suite**.
 
+El análisis incluyó diferentes pruebas orientadas a identificar posibles vulnerabilidades y configuraciones inseguras de la aplicación.
 
+### Algunas de las actividades realizadas:
 
-🔐 Ciberseguridad
+- 🔎 Análisis de cabeceras HTTP.
+- 🔐 Revisión de mecanismos de autenticación.
+- 👤 Revisión de autorización y control de acceso.
+- ⚙️ Análisis de configuraciones de seguridad.
+- 🌐 Interceptación y análisis de solicitudes y respuestas HTTP mediante Burp Suite.
+- 🛡️ Evaluación de la aplicación tomando como referencia OWASP Top 10.
+- 📝 Documentación de hallazgos y recomendaciones de seguridad.
 
+---
 
+# 🐳 Herramientas e infraestructura
 
-OWASP Top 10
+<p align="left">
 
-Auditoría de seguridad de aplicaciones web
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
 
-Análisis de configuraciones de seguridad
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/>
 
-Pruebas de seguridad con Burp Suite
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
 
-Análisis de cabeceras HTTP
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="45" height="45" alt="Nginx"/>
 
-Autenticación y autorización
+</p>
 
-JWT
+- Git
+- Docker
+- Linux
+- Nginx
 
-Control de acceso basado en roles
+---
 
-Identificación y análisis de vulnerabilidades
+# 📌 Proyecto destacado
 
-🛡️ Auditoría de seguridad de mi proyecto de tesis
+## 🎓 Sistema de Gestión de Proyectos de Integración Curricular
 
-Como parte de mi proyecto de tesis realicé una auditoría de seguridad de la aplicación web utilizando OWASP Top 10 y Burp Suite.
+**Rol:** Backend Developer | Proyecto de tesis
 
-Entre las actividades realizadas se incluyeron:
+Desarrollo de una plataforma web orientada a la gestión de proyectos de integración curricular.
 
-Evaluación de configuraciones de seguridad.
+### ⚙️ Backend
 
-Análisis de cabeceras HTTP.
+- Node.js
+- Express.js
+- MongoDB
+- REST APIs
+- JWT
 
-Revisión de controles de acceso.
+### 🔐 Seguridad
 
-Evaluación de mecanismos de autenticación.
+- Autenticación de usuarios.
+- Verificación de correo electrónico.
+- Recuperación de contraseñas.
+- Autorización basada en roles.
+- Control de acceso a recursos.
+- Auditoría de seguridad utilizando OWASP Top 10.
+- Pruebas de seguridad mediante Burp Suite.
 
-Identificación de configuraciones potencialmente inseguras.
+### 📊 Funcionalidades
 
-Análisis de respuestas HTTP y comportamiento de la aplicación.
+- Gestión de usuarios.
+- Gestión de proyectos.
+- Gestión de documentos.
+- Búsqueda de proyectos.
+- Sistema de favoritos.
+- Estadísticas.
+- Registro de actividad de usuarios.
+- Chatbot orientado a la búsqueda inteligente de proyectos y generación de ideas.
 
-Documentación de hallazgos y recomendaciones de seguridad.
+---
 
-☁️ DevOps, infraestructura y herramientas
+# 🚀 Lo que he trabajado
 
+### Backend
 
+Desarrollo de APIs REST utilizando **Node.js y Express.js**, implementando funcionalidades relacionadas con usuarios, proyectos, documentos, autenticación y autorización.
 
+### Bases de datos
 
+Trabajo con **MongoDB** y **SQL** para la persistencia y gestión de información.
 
+### Frontend
 
+Desarrollo de interfaces utilizando **React, HTML5 y CSS3**.
 
-Git / GitHub
+### Infraestructura
 
-Docker / Docker Compose
+Uso de **Docker, Linux y Nginx** en proyectos relacionados con despliegue e infraestructura.
 
-Linux
+### Seguridad
 
-Nginx
+Análisis de aplicaciones web utilizando **OWASP Top 10 y Burp Suite**, además de implementación de mecanismos de autenticación y autorización.
 
-APIs REST
+---
 
-Despliegue de aplicaciones
+# 🎯 Áreas de interés
 
-Arquitecturas distribuidas
+- 💻 Desarrollo Backend
+- 🌐 Desarrollo Web
+- 📱 Desarrollo Mobile
+- 🔐 Ciberseguridad
+- 🐳 DevOps e infraestructura
+- 🗄️ Bases de datos
+- 🤖 Inteligencia Artificial
+- 📡 Internet de las Cosas (IoT)
+- ⚙️ APIs y sistemas distribuidos
 
-Balanceo de carga
+---
 
-Administración de servicios y contenedores
+# 🎓 Formación académica
 
-🤖 Inteligencia Artificial
+### Escuela Politécnica Nacional — EPN
 
+**Tecnología Superior en Desarrollo de Software**
 
+Formación en desarrollo de software, aplicaciones web, aplicaciones móviles, bases de datos, Internet de las Cosas e Inteligencia Artificial.
 
-Fundamentos de Inteligencia Artificial
+### Unidad Educativa Johann Strauss
 
-Machine Learning con Python
+**Bachillerato General Unificado**
 
-Análisis y procesamiento de datos
+---
 
-Desarrollo de soluciones con Python
+# 🌎 Idiomas
 
-Integración de chatbots
+**Inglés:** Académico
 
-Integración de modelos de lenguaje mediante APIs
+---
 
-📌 Proyecto principal
+# 📫 Contacto
 
-🎓 Sistema de Gestión de Proyectos de Integración Curricular
+📧 **Email:** gabrielescobar283@gmail.com
 
-Rol: Backend Developer · Proyecto de tesis / académico
+📍 **Quito, Ecuador**
 
-Desarrollo de una plataforma web para la gestión y consulta de proyectos de integración curricular, incorporando mecanismos de autenticación, autorización, gestión de información y funcionalidades inteligentes.
+💻 **GitHub:** [GabrielEsc23](https://github.com/GabrielEsc23)
 
-⚙️ Backend
-
-Node.js
-
-Express.js
-
-MongoDB
-
-Mongoose
-
-JWT
-
-APIs REST
-
-🔐 Seguridad
-
-Registro y autenticación de usuarios.
-
-Verificación de correo electrónico.
-
-Recuperación de contraseñas.
-
-Autorización basada en roles.
-
-Control de acceso a recursos.
-
-Auditoría de seguridad basada en OWASP Top 10.
-
-Pruebas utilizando Burp Suite.
-
-📊 Funcionalidades
-
-Gestión de usuarios.
-
-Gestión de proyectos.
-
-Gestión de documentos.
-
-Búsqueda y filtrado.
-
-Sistema de favoritos.
-
-Estadísticas.
-
-Registro de actividad de usuarios.
-
-Chatbot para búsqueda inteligente de proyectos y generación de ideas.
-
-☁️ Servicios y despliegue
-
-Render para despliegue.
-
-Cloudinary para almacenamiento de archivos.
-
-Brevo para servicios de correo electrónico.
-
-Docker y herramientas de infraestructura.
-
-📱 Otros proyectos académicos
-
-📲 Aplicaciones móviles
-
-Desarrollo de aplicaciones móviles utilizando tecnologías como Flutter, Dart, Ionic y Angular, trabajando con autenticación, formularios, bases de datos y servicios externos.
-
-🐳 Aplicaciones distribuidas
-
-Experiencia académica trabajando con:
-
-Docker
-
-Docker Compose
-
-MySQL
-
-Arquitecturas distribuidas
-
-Replicación de bases de datos
-
-Balanceo de carga
-
-Nginx
-
-🧠 Procesamiento de datos
-
-Trabajo con Python y MRJob/MapReduce, desarrollando procesos para conteo, suma, promedio, máximos, mínimos y procesamiento de conjuntos de datos.
-
-🎓 Formación
-
-Escuela Politécnica Nacional — EPN
-
-Tecnología Superior en Desarrollo de Software
-
-Formación en desarrollo de software, aplicaciones web y móviles, bases de datos, sistemas distribuidos, IoT, inteligencia artificial y fundamentos de ciberseguridad.
-
-Unidad Educativa Johann Strauss
-
-Bachillerato General Unificado
-
-📚 Áreas de interés
-
-💻 Desarrollo Backend
-
-🌐 Desarrollo Web
-
-📱 Desarrollo Mobile
-
-☁️ Cloud & DevOps
-
-🔐 Ciberseguridad
-
-🤖 Inteligencia Artificial
-
-🗄️ Bases de datos
-
-🐳 Contenedores y sistemas distribuidos
-
-📡 Internet de las Cosas
-
-📊 GitHub Stats
+---
 
 <div align="center">
 
+### 💻 Desarrollador de Software
 
-
-
-
-</div>
-
-📫 Contacto
-
-📧 Email: gabrielescobar283@gmail.com
-📍 Quito, Ecuador
-💻 GitHub: github.com/gabrielesc23
-
-<div align="center">
-
-💡 Siempre aprendiendo, desarrollando y mejorando.
+**Backend • Web • Ciberseguridad • DevOps • IoT • IA**
 
 ⭐ Gracias por visitar mi perfil.
 
