@@ -208,32 +208,6 @@ Desarrollo de una plataforma web orientada a la gestión de proyectos de integra
 - Registro de actividad de usuarios.
 - Chatbot orientado a la búsqueda inteligente de proyectos y generación de ideas.
 
----
-
-# 🚀 Lo que he trabajado
-
-### Backend
-
-Desarrollo de APIs REST utilizando **Node.js y Express.js**, implementando funcionalidades relacionadas con usuarios, proyectos, documentos, autenticación y autorización.
-
-### Bases de datos
-
-Trabajo con **MongoDB** y **SQL** para la persistencia y gestión de información.
-
-### Frontend
-
-Desarrollo de interfaces utilizando **React, HTML5 y CSS3**.
-
-### Infraestructura
-
-Uso de **Docker, Linux y Nginx** en proyectos relacionados con despliegue e infraestructura.
-
-### Seguridad
-
-Análisis de aplicaciones web utilizando **OWASP Top 10 y Burp Suite**, además de implementación de mecanismos de autenticación y autorización.
-
----
-
 # 🎯 Áreas de interés
 
 - 💻 Desarrollo Backend
