@@ -260,25 +260,8 @@ Formación en desarrollo de software, aplicaciones web, aplicaciones móviles, b
 
 **Bachillerato General Unificado**
 
----
 
-# 🌎 Idiomas
 
-**Inglés:** Académico
-
----
-
-# 📫 Contacto
-
-📧 **Email:** gabrielescobar283@gmail.com
-
-📍 **Quito, Ecuador**
-
-💻 **GitHub:** [GabrielEsc23](https://github.com/GabrielEsc23)
-
----
-
-<div align="center">
 
 ### 💻 Desarrollador de Software
 
