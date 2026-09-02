@@ -25,40 +25,42 @@ Actualmente busco seguir creciendo profesionalmente y aportar en proyectos de so
 
 **Lenguajes**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-2563EB?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0D1117)
-![Java](https://img.shields.io/badge/Java-2563EB?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0D1117)
-![Python](https://img.shields.io/badge/Python-2563EB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117)
-![C++](https://img.shields.io/badge/C++-2563EB?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=0D1117)
+**Lenguajes**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-2563EB?style=for-the-badge&logo=react&logoColor=white&labelColor=0D1117)
-![HTML5](https://img.shields.io/badge/HTML5-2563EB?style=for-the-badge&logo=html5&logoColor=white&labelColor=0D1117)
-![CSS3](https://img.shields.io/badge/CSS3-2563EB?style=for-the-badge&logo=css3&logoColor=white&labelColor=0D1117)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **Backend**
 
-![Node.js](https://img.shields.io/badge/Node.js-2563EB?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0D1117)
-![Express](https://img.shields.io/badge/Express-2563EB?style=for-the-badge&logo=express&logoColor=white&labelColor=0D1117)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-2563EB?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0D1117)
-![JWT](https://img.shields.io/badge/JWT-2563EB?style=for-the-badge&logo=jsonwebtokens&logoColor=white&labelColor=0D1117)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=FF4088)
 
 **Bases de datos**
 
-![MongoDB](https://img.shields.io/badge/MongoDB-2563EB?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0D1117)
-![MySQL](https://img.shields.io/badge/SQL-2563EB?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0D1117)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Infraestructura**
 
-![Git](https://img.shields.io/badge/Git-2563EB?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117)
-![Docker](https://img.shields.io/badge/Docker-2563EB?style=for-the-badge&logo=docker&logoColor=white&labelColor=0D1117)
-![Linux](https://img.shields.io/badge/Linux-2563EB?style=for-the-badge&logo=linux&logoColor=white&labelColor=0D1117)
-![Nginx](https://img.shields.io/badge/Nginx-2563EB?style=for-the-badge&logo=nginx&logoColor=white&labelColor=0D1117)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 **Seguridad**
 
-![OWASP](https://img.shields.io/badge/OWASP%20Top%2010-2563EB?style=for-the-badge&logo=owasp&logoColor=white&labelColor=0D1117)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-2563EB?style=for-the-badge&logo=burpsuite&logoColor=white&labelColor=0D1117)
+![OWASP](https://img.shields.io/badge/OWASP%20Top%2010-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 
 ---
 
