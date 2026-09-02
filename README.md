@@ -248,25 +248,4 @@ Análisis de aplicaciones web utilizando **OWASP Top 10 y Burp Suite**, además 
 
 ---
 
-# 🎓 Formación académica
 
-### Escuela Politécnica Nacional — EPN
-
-**Tecnología Superior en Desarrollo de Software**
-
-Formación en desarrollo de software, aplicaciones web, aplicaciones móviles, bases de datos, Internet de las Cosas e Inteligencia Artificial.
-
-### Unidad Educativa Johann Strauss
-
-**Bachillerato General Unificado**
-
-
-
-
-### 💻 Desarrollador de Software
-
-**Backend • Web • Ciberseguridad • DevOps • IoT • IA**
-
-⭐ Gracias por visitar mi perfil.
-
-</div>
