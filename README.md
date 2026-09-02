@@ -1,225 +1,92 @@
-</p>
+<div align="center">
 
-```
- ██████╗  █████╗ ██████╗ ██████╗ ██╗███████╗██╗          ███████╗███████╗ ██████╗ ██████╗ ██████╗  █████╗ ██████╗ 
-██╔════╝ ██╔══██╗██╔══██╗██╔══██╗██║██╔════╝██║          ██╔════╝██╔════╝██╔════╝██╔═══██╗██╔══██╗██╔══██╗██╔══██╗
-██║  ███╗███████║██████╔╝██████╔╝██║█████╗  ██║          █████╗  ███████╗██║     ██║   ██║██████╔╝███████║██████╔╝
-██║   ██║██╔══██║██╔══██╗██╔══██╗██║██╔══╝  ██║          ██╔══╝  ╚════██║██║     ██║   ██║██╔══██╗██╔══██║██╔══██╗
-╚██████╔╝██║  ██║██████╔╝██║  ██║██║███████╗███████╗     ███████╗███████║╚██████╗╚██████╔╝██████╔╝██║  ██║██║  ██║
- ╚═════╝ ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝╚══════╝╚══════╝     ╚══════╝╚══════╝ ╚═════╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&duration=3000&pause=1200&color=2563EB&center=true&vCenter=true&width=650&lines=Gabriel+Escobar;Tecn%C3%B3logo+en+Desarrollo+de+Software;Backend+%7C+Seguridad+%7C+DevOps" alt="Typing SVG" />
 
-```
+</div>
 
+<div align="center">
 
-<p>
-### 💻 Tecnólogo Superior en Desarrollo de Software
+![Static](https://img.shields.io/badge/EPN-Escuela%20Polit%C3%A9cnica%20Nacional-2563EB?style=for-the-badge&labelColor=0D1117)
+![Static](https://img.shields.io/badge/Quito-Ecuador-2563EB?style=for-the-badge&labelColor=0D1117&logo=googlemaps&logoColor=white)
 
-Soy **Tecnólogo Superior en Desarrollo de Software** de la **Escuela Politécnica Nacional (EPN)**, con formación en desarrollo de aplicaciones web, desarrollo móvil, Internet de las Cosas (IoT) y fundamentos de Inteligencia Artificial.
-
-Tengo experiencia académica en el desarrollo de soluciones de software utilizando tecnologías como **JavaScript, Java, Python, C++, React, Node.js, Express.js, MongoDB y SQL**.
-
-También cuento con experiencia en **Docker, Linux, Nginx, Git**, desarrollo de APIs REST y análisis de seguridad de aplicaciones web mediante **OWASP Top 10 y Burp Suite**.
-
-Actualmente busco seguir creciendo profesionalmente, aprender nuevas tecnologías y aportar mis conocimientos en proyectos de desarrollo de software.
+</div>
 
 ---
 
-## 🧑‍💻 Sobre mí
+## 👋 Sobre mí
 
-- 🎓 **Tecnólogo Superior en Desarrollo de Software**
-- 🏫 **Escuela Politécnica Nacional — EPN**
-- 💻 Desarrollo de aplicaciones Web
-- 📱 Desarrollo de aplicaciones Mobile
-- ⚙️ Desarrollo Backend y APIs REST
-- 🗄️ Bases de datos SQL y NoSQL
-- 🔐 Ciberseguridad y auditoría de aplicaciones web
-- 🐳 Docker y Docker Compose
-- 🐧 Linux
-- 🌐 Nginx
-- 🔧 Git y GitHub
-- 🤖 Fundamentos de Inteligencia Artificial
-- 📡 Internet de las Cosas (IoT)
-- 🇪🇨 Quito, Ecuador
+Tecnólogo Superior en Desarrollo de Software (EPN), enfocado en **desarrollo backend, APIs REST y seguridad de aplicaciones web**. También tengo formación en desarrollo web/móvil, IoT y fundamentos de IA.
+
+Actualmente busco seguir creciendo profesionalmente y aportar en proyectos de software donde pueda combinar desarrollo con buenas prácticas de seguridad.
 
 ---
 
-# 🛠️ Tecnologías
+## 🛠️ Stack técnico
 
-## 💻 Lenguajes de programación
+**Lenguajes**
 
-<p align="left">
+![JavaScript](https://img.shields.io/badge/JavaScript-2563EB?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0D1117)
+![Java](https://img.shields.io/badge/Java-2563EB?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0D1117)
+![Python](https://img.shields.io/badge/Python-2563EB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117)
+![C++](https://img.shields.io/badge/C++-2563EB?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=0D1117)
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+**Frontend**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
+![React](https://img.shields.io/badge/React-2563EB?style=for-the-badge&logo=react&logoColor=white&labelColor=0D1117)
+![HTML5](https://img.shields.io/badge/HTML5-2563EB?style=for-the-badge&logo=html5&logoColor=white&labelColor=0D1117)
+![CSS3](https://img.shields.io/badge/CSS3-2563EB?style=for-the-badge&logo=css3&logoColor=white&labelColor=0D1117)
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+**Backend**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
+![Node.js](https://img.shields.io/badge/Node.js-2563EB?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0D1117)
+![Express](https://img.shields.io/badge/Express-2563EB?style=for-the-badge&logo=express&logoColor=white&labelColor=0D1117)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-2563EB?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0D1117)
+![JWT](https://img.shields.io/badge/JWT-2563EB?style=for-the-badge&logo=jsonwebtokens&logoColor=white&labelColor=0D1117)
 
-</p>
+**Bases de datos**
 
-- JavaScript
-- Java
-- Python
-- C++
+![MongoDB](https://img.shields.io/badge/MongoDB-2563EB?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0D1117)
+![MySQL](https://img.shields.io/badge/SQL-2563EB?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0D1117)
 
----
+**Infraestructura**
 
-# 🌐 Desarrollo Web
+![Git](https://img.shields.io/badge/Git-2563EB?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117)
+![Docker](https://img.shields.io/badge/Docker-2563EB?style=for-the-badge&logo=docker&logoColor=white&labelColor=0D1117)
+![Linux](https://img.shields.io/badge/Linux-2563EB?style=for-the-badge&logo=linux&logoColor=white&labelColor=0D1117)
+![Nginx](https://img.shields.io/badge/Nginx-2563EB?style=for-the-badge&logo=nginx&logoColor=white&labelColor=0D1117)
 
-## 🎨 Frontend
+**Seguridad**
 
-<p align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
-
-</p>
-
-- React
-- HTML5
-- CSS3
-
-## ⚙️ Backend
-
-<p align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" height="45" alt="Express.js"/>
-
-</p>
-
-- Node.js
-- Express.js
-- REST APIs
+![OWASP](https://img.shields.io/badge/OWASP%20Top%2010-2563EB?style=for-the-badge&logo=owasp&logoColor=white&labelColor=0D1117)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-2563EB?style=for-the-badge&logo=burpsuite&logoColor=white&labelColor=0D1117)
 
 ---
 
-# 🗄️ Bases de datos
+## 📌 Proyecto destacado
 
-<p align="left">
+### 🎓 Sistema de Gestión de Proyectos de Integración Curricular
+**Rol:** Backend Developer · Proyecto de tesis
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB"/>
+Plataforma web para la gestión de proyectos de integración curricular, desarrollada con **Node.js, Express, MongoDB y JWT**.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
+Como parte del proyecto realicé una **auditoría de seguridad completa basada en OWASP Top 10**, usando **Burp Suite** para interceptar y analizar tráfico HTTP. El trabajo incluyó:
 
-</p>
+- Revisión de autenticación (verificación de correo, recuperación de contraseñas) y autorización basada en roles.
+- Análisis de cabeceras HTTP y configuraciones inseguras.
+- Documentación de hallazgos y recomendaciones de seguridad.
 
-- MongoDB
-- SQL
-
----
-
-# 🔐 Ciberseguridad
-
-Tengo conocimientos en **seguridad de aplicaciones web**, incluyendo análisis de vulnerabilidades y revisión de configuraciones de seguridad.
-
-### 🛡️ Tecnologías y herramientas
-
-- OWASP Top 10
-- Burp Suite
-- Análisis de seguridad de aplicaciones web
-- Análisis de cabeceras HTTP
-- Autenticación y autorización
-- JSON Web Tokens (JWT)
-- Control de acceso basado en roles
-- Revisión de configuraciones de seguridad
+**Funcionalidades del sistema:** gestión de usuarios y proyectos, búsqueda y sistema de favoritos, estadísticas, registro de actividad, y un chatbot para búsqueda inteligente de proyectos y generación de ideas.
 
 ---
 
-# 🛡️ Auditoría de seguridad — Proyecto de tesis
+## 🎯 Intereses
 
-Como parte de mi proyecto de tesis realicé una **auditoría de seguridad de la aplicación web utilizando OWASP Top 10 y Burp Suite**.
-
-El análisis incluyó diferentes pruebas orientadas a identificar posibles vulnerabilidades y configuraciones inseguras de la aplicación.
-
-### Algunas de las actividades realizadas:
-
-- 🔎 Análisis de cabeceras HTTP.
-- 🔐 Revisión de mecanismos de autenticación.
-- 👤 Revisión de autorización y control de acceso.
-- ⚙️ Análisis de configuraciones de seguridad.
-- 🌐 Interceptación y análisis de solicitudes y respuestas HTTP mediante Burp Suite.
-- 🛡️ Evaluación de la aplicación tomando como referencia OWASP Top 10.
-- 📝 Documentación de hallazgos y recomendaciones de seguridad.
+Backend · Seguridad de aplicaciones web · DevOps · IoT · Inteligencia Artificial
 
 ---
 
-# 🐳 Herramientas e infraestructura
+<div align="center">
 
-<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2563EB&icon_color=2563EB&text_color=c9d1d9" alt="GitHub Stats" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="45" height="45" alt="Nginx"/>
-
-</p>
-
-- Git
-- Docker
-- Linux
-- Nginx
-
----
-
-# 📌 Proyecto destacado
-
-## 🎓 Sistema de Gestión de Proyectos de Integración Curricular
-
-**Rol:** Backend Developer | Proyecto de tesis
-
-Desarrollo de una plataforma web orientada a la gestión de proyectos de integración curricular.
-
-### ⚙️ Backend
-
-- Node.js
-- Express.js
-- MongoDB
-- REST APIs
-- JWT
-
-### 🔐 Seguridad
-
-- Autenticación de usuarios.
-- Verificación de correo electrónico.
-- Recuperación de contraseñas.
-- Autorización basada en roles.
-- Control de acceso a recursos.
-- Auditoría de seguridad utilizando OWASP Top 10.
-- Pruebas de seguridad mediante Burp Suite.
-
-### 📊 Funcionalidades
-
-- Gestión de usuarios.
-- Gestión de proyectos.
-- Gestión de documentos.
-- Búsqueda de proyectos.
-- Sistema de favoritos.
-- Estadísticas.
-- Registro de actividad de usuarios.
-- Chatbot orientado a la búsqueda inteligente de proyectos y generación de ideas.
-
-# 🎯 Áreas de interés
-
-- 💻 Desarrollo Backend
-- 🌐 Desarrollo Web
-- 📱 Desarrollo Mobile
-- 🔐 Ciberseguridad
-- 🐳 DevOps e infraestructura
-- 🗄️ Bases de datos
-- 🤖 Inteligencia Artificial
-- 📡 Internet de las Cosas (IoT)
-- ⚙️ APIs y sistemas distribuidos
-
----
-
-
+</div>
