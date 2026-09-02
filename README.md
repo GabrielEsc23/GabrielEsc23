@@ -87,11 +87,12 @@ Backend · Seguridad de aplicaciones web · DevOps · IoT · Inteligencia Artifi
 
 <div align="center">
 
-[![](https://raw.githubusercontent.com/GabrielEsc23/GabrielEsc23/main/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/GabrielEsc23/GabrielEsc23/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/GabrielEsc23/GabrielEsc23/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/GabrielEsc23/GabrielEsc23/main/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/GabrielEsc23/GabrielEsc23/main/profile-summary-card-output/tokyonight/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/GabrielEsc23/GabrielEsc23/main/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/GabrielEsc23)
 
+[![](https://raw.githubusercontent.com/GabrielEsc23/GabrielEsc23/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/GabrielEsc23)
 
+[![](https://raw.githubusercontent.com/GabrielEsc23/GabrielEsc23/main/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/GabrielEsc23)
+
+[![](https://raw.githubusercontent.com/GabrielEsc23/GabrielEsc23/main/profile-summary-card-output/tokyonight/4-productive-time.svg)](https://github.com/GabrielEsc23)
 
 </div>
-
