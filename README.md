@@ -8,7 +8,7 @@
 
 ---
 
-<h1 align="center"><b> Sobre mí </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h2 align="left"><b> Sobre mí </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
 Tecnólogo Superior en Desarrollo de Software (EPN), enfocado en **desarrollo backend, APIs REST y seguridad de aplicaciones web**. También tengo formación en desarrollo web/móvil, IoT y fundamentos de IA.
 
 Actualmente busco seguir creciendo profesionalmente y aportar en proyectos de software donde pueda combinar desarrollo con buenas prácticas de seguridad.
