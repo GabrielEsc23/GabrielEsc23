@@ -8,10 +8,14 @@
 
 ---
 
-<h2 align="left"><b> Sobre mí </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
-Tecnólogo Superior en Desarrollo de Software (EPN), enfocado en **desarrollo backend, APIs REST y seguridad de aplicaciones web**. También tengo formación en desarrollo web/móvil, IoT y fundamentos de IA.
+<h2 align="left"><b>Sobre mí</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
 
-Actualmente busco seguir creciendo profesionalmente y aportar en proyectos de software donde pueda combinar desarrollo con buenas prácticas de seguridad.
+Tecnólogo Superior en Desarrollo de Software (EPN), orientado al **desarrollo Full Stack**, con experiencia en la construcción de aplicaciones web, APIs REST y gestión de bases de datos. Cuento con conocimientos en **frontend, backend, desarrollo móvil, DevOps y seguridad de aplicaciones web**.
+
+Me interesa desarrollar soluciones de software completas, desde la construcción de interfaces y funcionalidades del lado del cliente hasta el desarrollo de servicios backend, integración de bases de datos y despliegue de aplicaciones.
+
+Actualmente busco seguir creciendo profesionalmente como **Full Stack Developer**, participando en proyectos donde pueda aplicar buenas prácticas de desarrollo, arquitectura y seguridad.
+
 
 ---
 
