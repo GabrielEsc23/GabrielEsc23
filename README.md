@@ -78,11 +78,6 @@ Como parte del proyecto realicé una **auditoría de seguridad completa basada e
 
 ---
 
-## 🎯 Intereses
-
-Backend · Seguridad de aplicaciones web · DevOps · IoT · Inteligencia Artificial
-
----
 
 
 <div align="center">
