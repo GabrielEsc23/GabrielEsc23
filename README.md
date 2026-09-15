@@ -93,7 +93,7 @@ Aplicación web distribuida desarrollada con **Python y Flask**, utilizando Dock
 **Tecnologías:**
 `Python` · `Flask` · `Docker` · `Docker Compose` · `NGINX` · `MySQL`
 
-**GitHub:** [Repositorio del proyecto](#)
+**GitHub:** [Repositorio del proyecto](https://github.com/GabrielEsc23/Proyecto-final-Aplicaciones-Distribuidas)
 
 ### 🔵 EcuGuardian — Reportes comunitarios de seguridad
 
@@ -104,7 +104,7 @@ Aplicación móvil desarrollada en **Flutter** como proyecto universitario grupa
 **Tecnologías:**
 `Flutter` · `Dart` · `Supabase` · `Google Maps API` · `Provider`
 
-**GitHub:** [Repositorio del proyecto](#)
+**GitHub:** [Repositorio del proyecto](https://github.com/Eddy-Morales/app_guardian/graphs/contributors?from=13%2F6%2F2026)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height="25"/>  
 
