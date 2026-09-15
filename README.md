@@ -87,51 +87,31 @@ También realicé una **auditoría de seguridad basada en OWASP Top 10**, utiliz
 
 ### 🐳 Aplicación Distribuida con Contenedores Docker
 
-Aplicación web distribuida desarrollada con **Python y Flask**, implementada mediante contenedores Docker y una arquitectura orientada a la distribución de carga y disponibilidad del sistema.
-
-La infraestructura utiliza **tres nodos de la aplicación**, un balanceador de carga **NGINX** configurado mediante pesos y un sistema de **replicación de base de datos** con un servidor principal y una réplica.
-
-La infraestructura completa fue gestionada mediante **Docker Compose**, incluyendo la configuración de servicios, redes y comunicación entre contenedores. También se realizaron pruebas de carga para evaluar el comportamiento del sistema bajo concurrencia.
+Aplicación web distribuida desarrollada con **Python y Flask**, utilizando Docker, NGINX y MySQL para implementar múltiples nodos, balanceo de carga y replicación de base de datos.
 
 **Tecnologías:**  
 `Python` · `Flask` · `Docker` · `Docker Compose` · `NGINX` · `MySQL`
 
-**Conceptos implementados:**
-- Arquitectura distribuida con múltiples nodos.
-- Balanceo de carga mediante NGINX.
-- Distribución de tráfico utilizando pesos.
-- Replicación de base de datos.
-- Orquestación de servicios con Docker Compose.
-- Pruebas de carga y concurrencia.
-
 🔗 **GitHub:** [Repositorio del proyecto](#)
 
+### 📱 EcuGuardian — Reportes comunitarios de seguridad
 
-### 📊 Análisis Multitemático de Datos
+Aplicación móvil desarrollada en **Flutter** como proyecto universitario grupal, orientada al registro y consulta de incidentes de seguridad mediante ubicación GPS, fotografías y mapas.
 
-Proyecto de análisis de datos enfocado en identificar **tendencias, opiniones y patrones** a partir de datos estructurados y no estructurados provenientes de diferentes fuentes.
-
-El proyecto integró datasets de **Kaggle** y comentarios de **Reddit**, utilizando Python para procesos de extracción, limpieza, transformación y análisis. Se trabajó con diferentes formatos y tecnologías de almacenamiento, incluyendo **CSV, JSON, MySQL, SQLite, SQL Server y MongoDB**.
-
-Como parte de mi participación, desarrollé el **análisis de sentimientos** utilizando **VADER y TextBlob**, además de trabajar en la integración de datasets estructurados con bases de datos relacionales.
-
-Los resultados fueron integrados en **Power BI** para la creación de dashboards interactivos y el análisis de diferentes temáticas como Fórmula 1, hobbies, música, anime y noticias mundiales.
+**Mi aporte:** gestión de usuarios y perfiles, integración de fotografía y GPS, y desarrollo del módulo de zonas de seguridad.
 
 **Tecnologías:**  
-`Python` · `Pandas` · `NumPy` · `SQL` · `MySQL` · `SQLite` · `SQL Server` · `MongoDB` · `Power BI` · `PRAW` · `VADER` · `TextBlob`
-
-**Conceptos implementados:**
-- Extracción y procesamiento de datos.
-- Limpieza y transformación de datasets.
-- Web scraping mediante la API de Reddit.
-- Conversión entre CSV y JSON.
-- Integración de bases de datos SQL y NoSQL.
-- Análisis de sentimientos.
-- Creación de dashboards interactivos.
+`Flutter` · `Dart` · `Supabase` · `Google Maps API` · `Provider`
 
 🔗 **GitHub:** [Repositorio del proyecto](#)
 
-🔗 **Power BI:** [Dashboard interactivo](#)
+---
+
+## 🌐 Portafolio
+
+Explora otros proyectos y trabajos que he desarrollado en diferentes áreas del desarrollo de software.
+
+🔗 **Visitar mi portafolio:** [Mi Portafolio](#)
 
 
 ---
