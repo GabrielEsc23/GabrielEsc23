@@ -84,7 +84,7 @@ También realicé una **auditoría de seguridad basada en OWASP Top 10**, utiliz
 ---
 
 ## 🚀 Otros proyectos
-
+![Docker](https://shields.io)
 ### 🐳 Aplicación Distribuida con Contenedores Docker
 
 Aplicación web distribuida desarrollada con **Python y Flask**, utilizando Docker, NGINX y MySQL para implementar múltiples nodos, balanceo de carga y replicación de base de datos.
