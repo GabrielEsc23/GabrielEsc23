@@ -132,9 +132,9 @@ Los resultados fueron integrados en **Power BI** para la creación de dashboards
 🔗 **GitHub:** [Repositorio del proyecto](#)
 
 🔗 **Power BI:** [Dashboard interactivo](#)
+
+
 ---
-
-
 
 <div align="center">
 
