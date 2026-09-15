@@ -65,7 +65,7 @@ Actualmente busco seguir creciendo profesionalmente como **Full Stack Developer*
 
 ## 📌 Proyecto destacado
 
-### 🎓 Sistema de Gestión de Proyectos de Integración Curricular
+###  Sistema de Gestión de Proyectos de Integración Curricular
 
 **Rol:** Backend Developer · Proyecto de tesis
 
@@ -85,7 +85,7 @@ También realicé una **auditoría de seguridad basada en OWASP Top 10**, utiliz
 
 ## Otros proyectos
 
-###Aplicación Distribuida con Contenedores Docker
+### Aplicación Distribuida con Contenedores Docker
 
 
 Aplicación web distribuida desarrollada con **Python y Flask**, utilizando Docker, NGINX y MySQL para implementar múltiples nodos, balanceo de carga y replicación de base de datos.
