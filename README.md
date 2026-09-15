@@ -83,11 +83,9 @@ También realicé una **auditoría de seguridad basada en OWASP Top 10**, utiliz
 
 ---
 
-## 🚀 Otros proyectos
+## Otros proyectos
 
-
-
-<h3> <img src="https://skillicons.dev/icons?i=,docker"width="100"> Aplicación Distribuida con Contenedores Docker</h3> 
+###Aplicación Distribuida con Contenedores Docker
 
 
 Aplicación web distribuida desarrollada con **Python y Flask**, utilizando Docker, NGINX y MySQL para implementar múltiples nodos, balanceo de carga y replicación de base de datos.
@@ -97,7 +95,7 @@ Aplicación web distribuida desarrollada con **Python y Flask**, utilizando Dock
 
 🔗 **GitHub:** [Repositorio del proyecto](#)
 
-### 📱 EcuGuardian — Reportes comunitarios de seguridad
+### EcuGuardian — Reportes comunitarios de seguridad
 
 Aplicación móvil desarrollada en **Flutter** como proyecto universitario grupal, orientada al registro y consulta de incidentes de seguridad mediante ubicación GPS, fotografías y mapas.
 
@@ -110,7 +108,7 @@ Aplicación móvil desarrollada en **Flutter** como proyecto universitario grupa
 
 ---
 
-## 🌐 Portafolio
+## Portafolio
 
 Explora otros proyectos y trabajos que he desarrollado en diferentes áreas del desarrollo de software.
 
