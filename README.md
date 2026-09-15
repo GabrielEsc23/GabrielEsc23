@@ -82,18 +82,37 @@ También realicé una **auditoría de seguridad basada en OWASP Top 10**, utiliz
 
 
 ---
+## Proyecto destacado
+
+### Sistema de Gestión de Proyectos de Integración Curricular
+
+**Rol:** Backend Developer · Proyecto de tesis
+
+Plataforma web para la gestión, consulta y acceso a proyectos de integración curricular de la ESFOT, desarrollada mediante una API REST con **Node.js, Express, MongoDB y JWT**.
+
+El proyecto incorporó funcionalidades de gestión de usuarios y proyectos, autenticación y autorización basada en roles, favoritos, estadísticas, registro de actividad y un chatbot para búsqueda de proyectos y generación de ideas.
+
+También realicé una **auditoría de seguridad basada en OWASP Top 10**, utilizando **Burp Suite** para analizar el tráfico HTTP, revisar mecanismos de autenticación y autorización, identificar configuraciones inseguras y documentar recomendaciones.
+
+**Tecnologías:**
+`Node.js` · `Express` · `MongoDB` · `Mongoose` · `JWT` · `REST API` · `Cloudinary` · `Groq` · `OWASP` · `Burp Suite`
+
+**GitHub:** [Repositorio del proyecto](#)
+
+---
 
 ## Otros proyectos
 
 ### Aplicación Distribuida con Contenedores Docker
 
+<img src="docker.gif" alt="Logo docker" width="60">
 
 Aplicación web distribuida desarrollada con **Python y Flask**, utilizando Docker, NGINX y MySQL para implementar múltiples nodos, balanceo de carga y replicación de base de datos.
 
-**Tecnologías:**  
+**Tecnologías:**
 `Python` · `Flask` · `Docker` · `Docker Compose` · `NGINX` · `MySQL`
 
-🔗 **GitHub:** [Repositorio del proyecto](#)
+**GitHub:** [Repositorio del proyecto](#)
 
 ### EcuGuardian — Reportes comunitarios de seguridad
 
@@ -101,10 +120,10 @@ Aplicación móvil desarrollada en **Flutter** como proyecto universitario grupa
 
 **Mi aporte:** gestión de usuarios y perfiles, integración de fotografía y GPS, y desarrollo del módulo de zonas de seguridad.
 
-**Tecnologías:**  
+**Tecnologías:**
 `Flutter` · `Dart` · `Supabase` · `Google Maps API` · `Provider`
 
-🔗 **GitHub:** [Repositorio del proyecto](#)
+**GitHub:** [Repositorio del proyecto](#)
 
 ---
 
@@ -112,9 +131,7 @@ Aplicación móvil desarrollada en **Flutter** como proyecto universitario grupa
 
 Explora otros proyectos y trabajos que he desarrollado en diferentes áreas del desarrollo de software.
 
-🔗 **Visitar mi portafolio:** [Mi Portafolio](#)
-
-
+**Visitar mi portafolio:** [Mi Portafolio](#)
 ---
 
 <div align="center">
