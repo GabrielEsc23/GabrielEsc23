@@ -66,18 +66,72 @@ Actualmente busco seguir creciendo profesionalmente como **Full Stack Developer*
 ## 📌 Proyecto destacado
 
 ### 🎓 Sistema de Gestión de Proyectos de Integración Curricular
+
 **Rol:** Backend Developer · Proyecto de tesis
 
-Plataforma web para la gestión de proyectos de integración curricular, desarrollada con **Node.js, Express, MongoDB y JWT**.
+Plataforma web para la gestión, consulta y acceso a proyectos de integración curricular de la ESFOT, desarrollada mediante una API REST con **Node.js, Express, MongoDB y JWT**.
 
-Como parte del proyecto realicé una **auditoría de seguridad completa basada en OWASP Top 10**, usando **Burp Suite** para interceptar y analizar tráfico HTTP. El trabajo incluyó:
+El proyecto incorporó funcionalidades de gestión de usuarios y proyectos, autenticación y autorización basada en roles, favoritos, estadísticas, registro de actividad y un chatbot para búsqueda de proyectos y generación de ideas.
 
-- Revisión de autenticación (verificación de correo, recuperación de contraseñas) y autorización basada en roles.
-- Análisis de cabeceras HTTP y configuraciones inseguras.
-- Documentación de hallazgos y recomendaciones de seguridad.
+También realicé una **auditoría de seguridad basada en OWASP Top 10**, utilizando **Burp Suite** para analizar el tráfico HTTP, revisar mecanismos de autenticación y autorización, identificar configuraciones inseguras y documentar recomendaciones.
 
-**Funcionalidades del sistema:** gestión de usuarios y proyectos, búsqueda y sistema de favoritos, estadísticas, registro de actividad, y un chatbot para búsqueda inteligente de proyectos y generación de ideas.
+**Tecnologías:**  
+`Node.js` · `Express` · `MongoDB` · `Mongoose` · `JWT` · `REST API` · `Cloudinary` · `Groq` · `OWASP` · `Burp Suite`
 
+🔗 **GitHub:** [Repositorio del proyecto](#)
+
+
+---
+
+## 🚀 Otros proyectos
+
+### 🐳 Aplicación Distribuida con Contenedores Docker
+
+Aplicación web distribuida desarrollada con **Python y Flask**, implementada mediante contenedores Docker y una arquitectura orientada a la distribución de carga y disponibilidad del sistema.
+
+La infraestructura utiliza **tres nodos de la aplicación**, un balanceador de carga **NGINX** configurado mediante pesos y un sistema de **replicación de base de datos** con un servidor principal y una réplica.
+
+La infraestructura completa fue gestionada mediante **Docker Compose**, incluyendo la configuración de servicios, redes y comunicación entre contenedores. También se realizaron pruebas de carga para evaluar el comportamiento del sistema bajo concurrencia.
+
+**Tecnologías:**  
+`Python` · `Flask` · `Docker` · `Docker Compose` · `NGINX` · `MySQL`
+
+**Conceptos implementados:**
+- Arquitectura distribuida con múltiples nodos.
+- Balanceo de carga mediante NGINX.
+- Distribución de tráfico utilizando pesos.
+- Replicación de base de datos.
+- Orquestación de servicios con Docker Compose.
+- Pruebas de carga y concurrencia.
+
+🔗 **GitHub:** [Repositorio del proyecto](#)
+
+
+### 📊 Análisis Multitemático de Datos
+
+Proyecto de análisis de datos enfocado en identificar **tendencias, opiniones y patrones** a partir de datos estructurados y no estructurados provenientes de diferentes fuentes.
+
+El proyecto integró datasets de **Kaggle** y comentarios de **Reddit**, utilizando Python para procesos de extracción, limpieza, transformación y análisis. Se trabajó con diferentes formatos y tecnologías de almacenamiento, incluyendo **CSV, JSON, MySQL, SQLite, SQL Server y MongoDB**.
+
+Como parte de mi participación, desarrollé el **análisis de sentimientos** utilizando **VADER y TextBlob**, además de trabajar en la integración de datasets estructurados con bases de datos relacionales.
+
+Los resultados fueron integrados en **Power BI** para la creación de dashboards interactivos y el análisis de diferentes temáticas como Fórmula 1, hobbies, música, anime y noticias mundiales.
+
+**Tecnologías:**  
+`Python` · `Pandas` · `NumPy` · `SQL` · `MySQL` · `SQLite` · `SQL Server` · `MongoDB` · `Power BI` · `PRAW` · `VADER` · `TextBlob`
+
+**Conceptos implementados:**
+- Extracción y procesamiento de datos.
+- Limpieza y transformación de datasets.
+- Web scraping mediante la API de Reddit.
+- Conversión entre CSV y JSON.
+- Integración de bases de datos SQL y NoSQL.
+- Análisis de sentimientos.
+- Creación de dashboards interactivos.
+
+🔗 **GitHub:** [Repositorio del proyecto](#)
+
+🔗 **Power BI:** [Dashboard interactivo](#)
 ---
 
 
