@@ -18,9 +18,10 @@ Actualmente busco seguir creciendo profesionalmente como **Full Stack Developer*
 
 
 ---
-<img align="right" src="https://i.pinimg.com/originals/a8/d5/ba/a8d5baeb06fc12c77ccefd0121010d20.gif" alt="Back to Top" width="255" height="255">
+
 
 ## 🛠️ Stack técnico
+<img align="right" src="https://i.pinimg.com/originals/a8/d5/ba/a8d5baeb06fc12c77ccefd0121010d20.gif" alt="Back to Top" width="255" height="255">
 
 **Lenguajes**
 
