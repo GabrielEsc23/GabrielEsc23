@@ -88,8 +88,6 @@ También realicé una **auditoría de seguridad basada en OWASP Top 10**, utiliz
 
 ### 🔵 Aplicación Distribuida con Contenedores Docker
 
-<img src="docker.gif" alt="Logo docker" width="60">
-
 Aplicación web distribuida desarrollada con **Python y Flask**, utilizando Docker, NGINX y MySQL para implementar múltiples nodos, balanceo de carga y replicación de base de datos.
 
 **Tecnologías:**
@@ -115,6 +113,7 @@ Aplicación móvil desarrollada en **Flutter** como proyecto universitario grupa
 Explora otros proyectos y trabajos que he desarrollado en diferentes áreas del desarrollo de software.
 
 **Visitar mi portafolio:** [Mi Portafolio](#)
+
 ---
 
 <div align="center">
