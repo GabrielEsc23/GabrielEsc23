@@ -63,26 +63,9 @@ Actualmente busco seguir creciendo profesionalmente como **Full Stack Developer*
 
 ---
 
-## 📌 Proyecto destacado
-
-###  Sistema de Gestión de Proyectos de Integración Curricular
-
-**Rol:** Backend Developer · Proyecto de tesis
-
-Plataforma web para la gestión, consulta y acceso a proyectos de integración curricular de la ESFOT, desarrollada mediante una API REST con **Node.js, Express, MongoDB y JWT**.
-
-El proyecto incorporó funcionalidades de gestión de usuarios y proyectos, autenticación y autorización basada en roles, favoritos, estadísticas, registro de actividad y un chatbot para búsqueda de proyectos y generación de ideas.
-
-También realicé una **auditoría de seguridad basada en OWASP Top 10**, utilizando **Burp Suite** para analizar el tráfico HTTP, revisar mecanismos de autenticación y autorización, identificar configuraciones inseguras y documentar recomendaciones.
-
-**Tecnologías:**  
-`Node.js` · `Express` · `MongoDB` · `Mongoose` · `JWT` · `REST API` · `Cloudinary` · `Groq` · `OWASP` · `Burp Suite`
-
-🔗 **GitHub:** [Repositorio del proyecto](#)
-
 
 ---
-## Proyecto destacado
+## 🔴 Proyecto destacado
 
 ### Sistema de Gestión de Proyectos de Integración Curricular
 
@@ -101,9 +84,9 @@ También realicé una **auditoría de seguridad basada en OWASP Top 10**, utiliz
 
 ---
 
-## Otros proyectos
+## ★ Otros proyectos
 
-### Aplicación Distribuida con Contenedores Docker
+### 🔵 Aplicación Distribuida con Contenedores Docker
 
 <img src="docker.gif" alt="Logo docker" width="60">
 
@@ -114,7 +97,7 @@ Aplicación web distribuida desarrollada con **Python y Flask**, utilizando Dock
 
 **GitHub:** [Repositorio del proyecto](#)
 
-### EcuGuardian — Reportes comunitarios de seguridad
+### 🔵 EcuGuardian — Reportes comunitarios de seguridad
 
 Aplicación móvil desarrollada en **Flutter** como proyecto universitario grupal, orientada al registro y consulta de incidentes de seguridad mediante ubicación GPS, fotografías y mapas.
 
@@ -127,7 +110,7 @@ Aplicación móvil desarrollada en **Flutter** como proyecto universitario grupa
 
 ---
 
-## Portafolio
+###  🔵 Portafolio
 
 Explora otros proyectos y trabajos que he desarrollado en diferentes áreas del desarrollo de software.
 
