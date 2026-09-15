@@ -88,7 +88,9 @@ También realicé una **auditoría de seguridad basada en OWASP Top 10**, utiliz
 
 
 ### 🐳 Aplicación Distribuida con Contenedores Docker
-<img src="docker.gif" alt="Logo docker" width="60">
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
 
 Aplicación web distribuida desarrollada con **Python y Flask**, utilizando Docker, NGINX y MySQL para implementar múltiples nodos, balanceo de carga y replicación de base de datos.
 
