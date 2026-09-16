@@ -114,6 +114,7 @@ Explora otros proyectos y trabajos que he desarrollado en diferentes áreas del 
 
 **Visitar mi portafolio:** [Mi Portafolio](https://portfoliogabriel-five.vercel.app/)
 
+**GitHub:** [https://github.com/GabrielEsc23/Portfolio-Gabriel-Escobar-V1)
 ---
 
 <div align="center">
