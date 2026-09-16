@@ -78,7 +78,7 @@ También realicé una **auditoría de seguridad basada en OWASP Top 10**, utiliz
 **Tecnologías:**
 `Node.js` · `Express` · `MongoDB` · `Mongoose` · `JWT` · `REST API` · `Cloudinary` · `Groq` · `OWASP` · `Burp Suite`
 
-**GitHub:** [Repositorio del proyecto](#)
+**GitHub:** [Repositorio del proyecto](https://github.com/GabrielEsc23/BACKEND_PIC.git)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height="25"/>  
   
@@ -112,7 +112,7 @@ Aplicación móvil desarrollada en **Flutter** como proyecto universitario grupa
 
 Explora otros proyectos y trabajos que he desarrollado en diferentes áreas del desarrollo de software.
 
-**Visitar mi portafolio:** [Mi Portafolio](#)
+**Visitar mi portafolio:** [Mi Portafolio](https://portfoliogabriel-five.vercel.app/)
 
 ---
 
